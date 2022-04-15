@@ -16,6 +16,3 @@ Instructions for use:
     Start matlab and run "runDose.m".
 
 In figures, TAK1 indicates active TAK1 and IKK2 + IKK3 indicates active IKK.
-
-
-Direct any questions to Kentaro Inoue (kentaro.inoue.hv@riken.jp).
